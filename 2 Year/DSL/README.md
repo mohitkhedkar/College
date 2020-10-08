@@ -28,7 +28,7 @@ Department library has N books. Write C/C++ program to store the cost of books i
  5. Count number of books with cost more than 500.
 
 ### Assignment-4 :
-Set  A=(1,3,  a,  s,  t,  i}  represent  alphanumeric  characters  permitted  to be  used  to set  the password of length. Write C/C++ program to generate all possible passwords
+Set  A=(1, 3,  a,  s,  t,  i}  represent  alphanumeric  characters  permitted  to be  used  to set  the password of length. Write C/C++ program to generate all possible passwords
 
 ### Assignment-5 :
 A magazine committee is to be formed that consists of any 3 members to be selected from   { Nikhita, Aboli, Megha, Sanika, Pratik, Saurabh}. Write C/C++ program to list all possible committees.
