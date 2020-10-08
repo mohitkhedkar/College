@@ -1,4 +1,4 @@
-# 3nd year.
+# 3rd year.
 
 ## Syllabus: Pattern 2015
 [Computer Dept.](http://collegecirculars.unipune.ac.in/sites/documents/Syllabus%202017/TE_Computer_Engg_Syllabus_2015_Course_10.072018.pdf).
