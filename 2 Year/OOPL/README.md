@@ -74,7 +74,11 @@ Write C++   Program with base class convert declares two variables, val1 and val
 A book shop maintains the inventory of books that are being sold at the shop. The list includes details such as author, title, price, publisher and stock position. Whenever a customer wants a book, the sales person inputs the title and author and the system searches the list anddisplays whether it is available or not. If it is not, an appropriate message is displayed. If it is, then the system  displays  the  book  details  and  requests  for  the  number  of  copies  required.  If  the requested copies book details and requests for the number of copies required. If the requested copies are available, the total cost of the requested copies is displayed; otherwise the message ―Required copies not in stock‖ is displayed. Design a system using a class called books with suitable  member  functions  and  Constructors.  Use  new  operator  in  constructors  to  allocate memory space required. Implement C++ program for the system.
 
 ### Assignment-13 : 
-Create employee bio-data using following classes i) Personal record ii))Professional record iii) Academic record Assume appropriatedata members and member function to accept required data & print bio-data. Create bio-data using multiple inheritance using C++.
+Create employee bio-data using following classes 
+1. Personal record 
+2. Professional record 
+3. Academic record Assume appropriatedata members and member function to accept required data & print bio-data. 
+Create bio-data using multiple inheritance using C++.
 
 ## Group B
 
