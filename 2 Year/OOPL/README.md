@@ -2,7 +2,7 @@
 
 ## List of Assignments
 
-## Group A
+## [Group A](https://github.com/mohitkhedkar/College/tree/main/2%20Year/OOPL/Group%20A)
 
 ### Assignment-2 :
 - [X] Implement a class Complex which represents the Complex Number data type. 
@@ -80,7 +80,7 @@ Example: If the file "STORY.TXT" contains the following lines,
 3. Academic record Assume appropriatedata members and member function to accept required data & print bio-data. 
 Create bio-data using multiple inheritance using C++.
 
-## Group B
+## [Group B](https://github.com/mohitkhedkar/College/tree/main/2%20Year/OOPL/Group%20B)
 
 ### Assignment-14 : 
 - [X] Create User defined exception to check the following conditions and throw the exception if the criterion does not meet.
@@ -117,7 +117,7 @@ Use a class object to store each set of data, access the file created and implem
     39      Lawn mower         3        79.50
     56      Power saw          18       99.99
 
-## Group C
+## [Group C](https://github.com/mohitkhedkar/College/tree/main/2%20Year/OOPL/Group%20C)
 
 ### Assignment-20 :
 - [X] Write C++ program using STL for implementation of Singly, doubly and circular linked list.
