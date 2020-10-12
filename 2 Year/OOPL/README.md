@@ -134,7 +134,7 @@ Write C++ program using STL for implementation of stack & queue using SLL
 ### Assignment-24 :
 - [X]  Write C++ program using STL for Sorting and searching with user-defined records such as Person Record (Name, birth date, telephone no), item record (item code, item name, quantity and cost)
 
-## Mini-projects
+## [Mini-projects](https://github.com/mohitkhedkar/College/tree/main/2%20Year/OOPL/Mini%20Projects)
 
 ### Assignment-25 :
 - [ ] Design and develop the Tic-Tac-Toe Game using C++
