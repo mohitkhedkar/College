@@ -149,7 +149,7 @@ Write C++ program using STL for implementation of stack & queue using SLL
 - [ ] Design an E-mail Verifier which accepts the email address from the user. Depending upon the input given by user display appropriate results. Use the following concepts in the Project –Constructor, Destructor, new, delete, exceptional handling, string handling functions, etc. 
 
 ### Assignment-28 :
-- [ ] Design and Develop Library Management system using OOP Concepts.
+- [x] Design and Develop Library Management system using OOP Concepts.
 
 ### Assignment-29 :
 - [ ] Write a C++ program to implement a small database mini project to understand persistent objects  and  operations  on  sequential  files  (ex-library  information,  inventory  systems, automated banking system, reservation systems etc.) For example, write a program to create a database for reservation system using information such as Name, sex, age, starting place of journey  and  destination.  Program  should  have  following  facilities  
