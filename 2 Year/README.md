@@ -5,8 +5,8 @@
 
 ## Subjects
 
-1. [Data Structures Lab (DSL)](https://github.com/mohitkhedkar/College/tree/master/2%20Year/DSL).
-2. [Object Oriented Programming Lab (OOPL)](https://github.com/mohitkhedkar/College/tree/master/2%20Year/OOPL).
-3. [Computer Graphics Lab (CGL)](https://github.com/mohitkhedkar/College/tree/master/2%20Year/CGL).
-4. [Advanced Data Structures Lab (ADL)](https://github.com/mohitkhedkar/College/tree/master/2%20Year/ADL).
-5. [Microprocessor Lab (MPL)](https://github.com/mohitkhedkar/College/tree/master/2%20Year/MPL).
+- [ ] 1. [Data Structures Lab (DSL)](https://github.com/mohitkhedkar/College/tree/main/2%20Year/DSL).
+- [ ] 2. [Object Oriented Programming Lab (OOPL)](https://github.com/mohitkhedkar/College/tree/main/2%20Year/OOPL).
+- [ ] 3. [Computer Graphics Lab (CGL)](https://github.com/mohitkhedkar/College/tree/main/2%20Year/CGL).
+- [ ] 4. [Advanced Data Structures Lab (ADL)](https://github.com/mohitkhedkar/College/tree/main/2%20Year/ADL).
+- [x] 5. [Microprocessor Lab (MPL)](https://github.com/mohitkhedkar/College/tree/main/2%20Year/MPL).
