@@ -2,7 +2,7 @@
 
 ## List of Assignments
 
-## [Group A](https://github.com/mohitkhedkar/College/tree/main/2%20Year/OOPL/Group%20A)
+## [Group A]()
 
 ### Assignment-2 :
 - [X] Implement a class Complex which represents the Complex Number data type. 
@@ -80,7 +80,7 @@ Example: If the file "STORY.TXT" contains the following lines,
 3. Academic record Assume appropriatedata members and member function to accept required data & print bio-data. 
 Create bio-data using multiple inheritance using C++.
 
-## [Group B](https://github.com/mohitkhedkar/College/tree/main/2%20Year/OOPL/Group%20B)
+## [Group B]()
 
 ### Assignment-14 : 
 - [X] Create User defined exception to check the following conditions and throw the exception if the criterion does not meet.
@@ -117,7 +117,7 @@ Use a class object to store each set of data, access the file created and implem
     39      Lawn mower         3        79.50
     56      Power saw          18       99.99
 
-## [Group C](https://github.com/mohitkhedkar/College/tree/main/2%20Year/OOPL/Group%20C)
+## [Group C]()
 
 ### Assignment-20 :
 - [X] Write C++ program using STL for implementation of Singly, doubly and circular linked list.
@@ -134,7 +134,7 @@ Write C++ program using STL for implementation of stack & queue using SLL
 ### Assignment-24 :
 - [X]  Write C++ program using STL for Sorting and searching with user-defined records such as Person Record (Name, birth date, telephone no), item record (item code, item name, quantity and cost)
 
-## [Mini-projects](https://github.com/mohitkhedkar/College/tree/main/2%20Year/OOPL/Mini%20Projects)
+## [Mini-projects]()
 
 ### Assignment-25 :
 - [ ] Design and develop the Tic-Tac-Toe Game using C++

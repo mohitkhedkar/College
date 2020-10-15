@@ -5,7 +5,7 @@
 
 ## Subjects
 
-- [ ] 1. [Skill Development Lab (SDL)](https://github.com/mohitkhedkar/College/tree/main/3%20Year/SDL).
+- [ ] 1. [Skill Development Lab (SDL)]().
 - [ ] 2. Database Management System Lab (DBMS Lab).
 - [ ] 3. Computer Networks Lab  (CNL).
 - [ ] 4. Web Technology Lab.

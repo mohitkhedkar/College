@@ -2,7 +2,7 @@
 
 ## List of Assignments
 
-## [Group A](https://github.com/mohitkhedkar/College/tree/main/2%20Year/DSL/Group%20A)
+## [Group A]()
 
 ### Assignment-1 :
 - [x] In Secondyear Computer Engineering class of M students, set A of students play cricket and set B of students play badminton. Write C/C++ program to find and display-
@@ -70,7 +70,7 @@
  3. Add two polynomials3.
  4. Multiplies two polynomials
 
-## [Group B](https://github.com/mohitkhedkar/College/tree/main/2%20Year/DSL/Group%20B)
+## [Group B]()
 
 ### Assignment-14 :
 - [x] Department of Computer Engineering has student's club named 'Pinnacle Club'. Students of Second, third and final year of department can be granted membership on request.  Similarly one may cancel the membership of club. First node is reserved for president of club and last node  is  reserved  for  secretary  of  club.  Write  C++  program  to  maintain  club  member‘s information using singlylinked list. Store student PRN and Name. Write functions to
@@ -133,7 +133,7 @@ To  erase  polynomials  efficiently,  we  need  to  use  an  available-space  li
 ### Assignment-22 :
 - [ ] Write C++ program to realize Set using Generalized Liked List (GLL) Ex.A ={ a, b, {c, d,e, {}, {f,g}, h, I, {j,k}, l, m}. Store and print as set notation.
 
-## [Group C](https://github.com/mohitkhedkar/College/tree/main/2%20Year/DSL/Group%20C)
+## [Group C]()
 
 ### Assignment-23 :
 - [ ] A palindrome is a string  of character  that‘s  the same forward  and backward. Typically, punctuation, capitalization, and spaces are ignored. For example, ‖Poor Dan is in a droop‖ is a palindrome, as can  be seen by  examining  the characters  ―poor danisina droop‖ and observing  that  they  are    the  same    forward  and  backward.  One  way  to  check      for  a palindrome  is  to  reverse    the  characters  in  the  string  and  then  compare  with  them  the original-in a palindrome, the sequence will be identical. Write C++ program with functions-
@@ -161,7 +161,7 @@ To  erase  polynomials  efficiently,  we  need  to  use  an  available-space  li
 ### Assignment-27 :
 - [ ] A classic problem that can be solved by backtracking is called the Eight Queens problem, which comes from the game of chess. The chess board   consistsof 64 square arranged in an 8 by 8 grid. The board normally   alternates between black and white square, but this is not relevant for the present problem. The queen can move as far as she wants in any direction, as  long as  she  follows a straight line, Vertically, horizontally, or diagonally. WriteC++ program  with  recursive  function  for  generating  all  possible  configurations  for  4-queen's problem.
 
-## [Group D](https://github.com/mohitkhedkar/College/tree/main/2%20Year/DSL/Group%20D)
+## [Group D]()
 
 ### Assignment-28 :
 - [ ] Queues are frequently used in computer programming, and a typical example is the creation of a job queue by an operating system. If the operating system does not use priorities, then the jobs are processed in the order they enter the system. Write C++ program for simulating job queue. Write functions to add job and delete job from queue. 
@@ -175,7 +175,7 @@ To  erase  polynomials  efficiently,  we  need  to  use  an  available-space  li
 ### Assignment-31 :
 - [ ] Pizza  parlor  accepting  maximum  M  orders.  Orders  are  served  in  first  come  first  served basis. Order once placed cannotbe cancelled. Write C++ program to simulate the system using circular queue using array.
 
-## [Group E](https://github.com/mohitkhedkar/College/tree/main/2%20Year/DSL/Group%20E)
+## [Group E]()
 
 ### Assignment-32 :
 - [ ] Write C++ program to store roll numbers of student in array who attended training program in random order. Write function for-
