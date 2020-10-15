@@ -8,7 +8,7 @@
 - [ ] A book consists of chapters, chapters consist of sections and sections consist of subsections. Construct a tree and print the nodes.  Find the time and space requirements of your method.
 
 ### Assignment-2 :
-- [ ] Beginning with an empty binary search tree, Construct binary search tree by inserting the values in the order given. After constructing a binary tree -
+- [x] Beginning with an empty binary search tree, Construct binary search tree by inserting the values in the order given. After constructing a binary tree -
 1. Insert new node
 2. Find number of nodes in longest path 
 3. Minimum data value found inthe tree 
@@ -16,7 +16,7 @@
 5. Search a value    
 
 ### Assignment-3 :
-- [ ] For given expression eg. a-b*c-d/e+f construct inorder sequence and traverse it using postorder traversal(non recursive).
+- [x] For given expression eg. a-b*c-d/e+f construct inorder sequence and traverse it using postorder traversal(non recursive).
 
 ### Assignment-4 :
 - [ ] Read for the formulas in propositional calculus. Write a function that reads such a formula and creates its binary tree representation. What is the complexity of your function?
@@ -25,13 +25,13 @@
 - [ ] Given binary tree with n nodes, assign this tree to another [operator=] and then erase all nodes in a binary tree.
 
 ### Assignment-6 :
-- [ ] Convert given binary tree into threaded binary tree.  Analyze time and space complexity of the algorithm. 
+- [x] Convert given binary tree into threaded binary tree.  Analyze time and space complexity of the algorithm. 
 
 ### Assignment-7 :
 - [ ] Consider threading a binary tree using preorder threads rather than inorder threads. Design an algorithm for traversal without using stack and analyze its complexity. 
 
 ### Assignment-8 :
-- [ ] A  Dictionary  stores  keywords  &  its  meanings.  Provide  facility  for  adding  new  keywords, deleting keywords, updating values of any entry. Provide facility to display whole data sorted in ascending/ Descending order. Also find how many maximum comparisons may require for finding any keyword.  Use Binary Search Tree for implementation.
+- [x] A  Dictionary  stores  keywords  &  its  meanings.  Provide  facility  for  adding  new  keywords, deleting keywords, updating values of any entry. Provide facility to display whole data sorted in ascending/ Descending order. Also find how many maximum comparisons may require for finding any keyword.  Use height balanced tree and find complexiety.
 
 ## Group B
 
@@ -41,10 +41,10 @@
 2. Use adjacency matrix representation of the graph and find runtime of the function
 
 ### Assignment-10 :
-- [ ] There are flight paths between cities. If there is a flight between city A and city B then there is an edge between the cities. The cost of the edge can be the time that flight takesto reach city B from A, or the amount of fuel used for the journey. Represent this as a graph. The node can be represented by airport nameor name of the city. Use adjacency list representation of the graph or use adjacency matrix representation of the graph. Justify thestorage representation used.
+- [x] There are flight paths between cities. If there is a flight between city A and city B then there is an edge between the cities. The cost of the edge can be the time that flight takesto reach city B from A, or the amount of fuel used for the journey. Represent this as a graph. The node can be represented by airport nameor name of the city. Use adjacency list representation of the graph or use adjacency matrix representation of the graph. Justify thestorage representation used.
 
 ### Assignment-11 :
-- [ ] You have a business with several offices; you want to lease phone lines to connect them up with each other; and the phone company charges different amounts of money to connect different pairs of cities. You want a set of lines that connects all your offices with a minimum total cost. Solve the problem by suggesting appropriate data structures.
+- [x] You have a business with several offices; you want to lease phone lines to connect them up with each other; and the phone company charges different amounts of money to connect different pairs of cities. You want a set of lines that connects all your offices with a minimum total cost. Solve the problem by suggesting appropriate data structures.
 
 ### Assignment-12 :
 - [ ] Tour operator organizes guided bus trips across the Maharashtra. Tourists may have different preferences.  Tour  operator  offers  a  choice  from  many  different  routes.  Every  day  the  bus moves from starting citySto another cityF as chosen by client. Onthis way, the tourists can see the sights alongside the route travelled from S to F. Client may have preference to choose route. There is a restriction on the routes that the tourists may choose from, the bus has to take a short route fromStoF or a route having one distance unit longer than the minimal distance. Two routes fromStoFare considered different if there is at least one road from a cityAto a cityBwhich is part of one route, but not of the other route.
@@ -55,10 +55,10 @@
 ## Group C 
 
 ### Assignment-14 :
-- [ ] Consider telephone book database of N clients. Make use of a hash table implementation to quickly look up client‘s telephone number.
+- [x] Consider telephone book database of N clients. Make use of a hash table implementation to quickly look up client‘s telephone number.
 
 ### Assignment-15 :
-- [ ] Implement all the functions of a dictionary (ADT) using hashing.Data:  Set of (key, value) pairs, Keys are mapped to values, Keys must be comparable, Keys must be uniqueStandard Operations:  Insert(key, value), Find(key), Delete(key)
+- [x] Implement all the functions of a dictionary (ADT) using hashing.Data:  Set of (key, value) pairs, Keys are mapped to values, Keys must be comparable, Keys must be uniqueStandard Operations:  Insert(key, value), Find(key), Delete(key)
 
 ### Assignment-16 :
 - [ ] For given set of elements create skip list. Find the element in the set that is closest to some given value. 
@@ -93,7 +93,7 @@
 8. Subset
 
 ### Assignment-21 :
-- [ ] Read the marks obtained by students of second year in an online examination of particular subject.  Find  out maximum  and minimum  marks  obtained in  that subject.   Use heap data structure. Analyze the algorithm.
+- [x] Read the marks obtained by students of second year in an online examination of particular subject.  Find  out maximum  and minimum  marks  obtained in  that subject.   Use heap data structure. Analyze the algorithm.
 
 ## Group F
 
@@ -101,7 +101,7 @@
 - [ ] Assume we have two input and two output tapes to perform the sorting. The internal memory can hold and sort m records at a time. Write a program in java for external sorting. Find out time complexity.
 
 ### Assignment-23 :
-- [ ] Department maintains  a student information. The file containsrollnumber, name, division and  address.      Allow  user  to  add,  delete  information  of  student.  Display  information  of particular employee.  If record of student does not exist an appropriate message is displayed. If it is, then the system displays the student details.Use sequential file to main the data.
+- [x] Department maintains  a student information. The file containsrollnumber, name, division and  address.      Allow  user  to  add,  delete  information  of  student.  Display  information  of particular employee.  If record of student does not exist an appropriate message is displayed. If it is, then the system displays the student details.Use sequential file to main the data.
 
 ### Assignment-24 :
 - [ ] Company  maintains  employee  information  as  employee  ID,  name,  designation  and  salary. Allow  user  to  add,  delete  information  of  employee.  Display  information  of particular employee.  If employee does not exist an appropriate message is displayed. If it is, then the system displays the employee details.Use index sequential file to maintain the data.
