@@ -109,10 +109,10 @@
 ## Group G
 
 ### Assignment-25 :
-- [ ] Implement the Heap/Shell sort algorithm implemented in Java demonstrating heap/shell data structure with modularity of programming language
+- [x] Implement the Heap/Shell sort algorithm implemented in Java demonstrating heap/shell data structure with modularity of programming language
 
 ### Assignment-26 :
-- [ ] Any  application  defining  scope  of  Formal  parameter,  Global  parameter,  Local  parameter accessing mechanism and also relevance to private, public and protected access.  Write a Java program which demonstrates the scope rules of the programming mechanism.
+- [x] Any  application  defining  scope  of  Formal  parameter,  Global  parameter,  Local  parameter accessing mechanism and also relevance to private, public and protected access.  Write a Java program which demonstrates the scope rules of the programming mechanism.
 
 ### Assignment-27 :
 - [ ] Write a Java program which will demonstrate aconcept of Interfaces and packages: In this assignment design and use of customized interfaces and packages for a specific application are expected.
@@ -121,7 +121,7 @@
 - [ ] Write  a  Java  program  which  will  demonstrate  a  concept  of  cohesion  and  coupling  of  the various modules in the program.
 
 ### Assignment-29 :
-- [ ] Write  a  program  on  template  and  exception  handling  in  Java:  in  this  assignment  multiple templates are to be designed as a pattern and these patterns to be used to take decisions.
+- [x] Write  a  program  on  template  and  exception  handling  in  Java:  in  this  assignment  multiple templates are to be designed as a pattern and these patterns to be used to take decisions.
 
 ### Assignment-30 :
 - [ ] Write  a  Java  program  for  the  implementation  of  different  data  structures  using  JAVA collection libraries (Standard toolkit library): at least 5 data structures are used to design a suitable application.
