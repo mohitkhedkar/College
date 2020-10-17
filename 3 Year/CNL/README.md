@@ -15,7 +15,7 @@
 4. file between two RS 232D or USB ports.(Use C/C++)  
 
 ### Assignment-3 :
-- [ ] Write a program for error detection and correction for 7/8 bits ASCII codes using Hamming Codes or CRC. Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode. (Use C/C++)
+- [x] Write a program for error detection and correction for 7/8 bits ASCII codes using Hamming Codes or CRC. Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode. (Use C/C++)
 
 ### Assignment-4 :
 - [ ] Write a program to simulate Go back N and Selective Repeat Modes of Sliding Window Protocol in peer to peer mode and demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode. (Use JAVA/PYTHON)
