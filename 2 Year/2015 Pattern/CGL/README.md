@@ -42,7 +42,7 @@
 ## Group B
 
 ### Assignment-10 : 
-- [ ] Write C++/Java program for line drawing using DDA or Bresenhams algorithm with patterns such as solid, dotted, dashed, dash dot and thick.
+- [x] Write C++/Java program for line drawing using DDA or Bresenhams algorithm with patterns such as solid, dotted, dashed, dash dot and thick.
 
 ### Assignment-11 : 
 - [ ] Write C++/Java program to draw a convex polygon and fill it with desired color using Seed fill algorithm. Use mouse interfacing to draw polygon.
