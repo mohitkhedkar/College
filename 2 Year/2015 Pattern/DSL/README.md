@@ -20,7 +20,7 @@
  4. list of students who were absent for the test
 
 ### Assignment-3 :
-- [ ] Department library has N books. Write C/C++ program to store the cost of books in array in ascending order.  Books are to be arranged in descending order of their cost. Write function for
+- [x] Department library has N books. Write C/C++ program to store the cost of books in array in ascending order.  Books are to be arranged in descending order of their cost. Write function for
  1. Reverse the contentsof array without using temporary array.  
  2. Copy costs of books those with cost less than 500 in new array 
  3. Delete the duplicate entries using temporary array 
