@@ -5,25 +5,25 @@
 ## Group A
 
 ### Assignment-1 :
-- [ ] Write C++/Java program to draw line using DDA and Bresenham‘s algorithm. Inherit pixel class and Use function overloading.
+- [x] Write C++/Java program to draw line using DDA and Bresenham‘s algorithm. Inherit pixel class and Use function overloading.
 
 ### Assignment-2 : 
-- [ ] Write C++/Java program to draw circle using Bresenham‘s algorithm. Inherit pixel class.
+- [x] Write C++/Java program to draw circle using Bresenham‘s algorithm. Inherit pixel class.
 
 ### Assignment-3 : 
 - [ ] Write C++/Java program to draw 2-D object and perform following basic transformations.
-a) Scaling
-b) Translation
-c) Rotation
-Use operator overloading
+1. Scaling
+2. Translation
+3. Rotation
+    Use operator overloading
 
 ### Assignment-4 : 
 - [ ] Write C++/Java program to fill polygon using scan line algorithm. Use mouse interfacing to draw polygon.
 
 ### Assignment-5 : 
 - [ ] A  Mandelbrot  Set  is  a  set  of  complex  number  z  that  does  not  diverge  under  the transformation xn+1 - x^2n |z with x0 -0 .Where,  both  x  and  z  represent  the  complex numbers. Write C++/Java program to
- a). Plot the  Mandelbrot set for the threshold |x|= 2. 
- b)  Plot Julia set choosing z ≠ 0. Use 254 colors for plotting in both cases.
+ 1. Plot the  Mandelbrot set for the threshold |x|= 2. 
+ 2. Plot Julia set choosing z ≠ 0. Use 254 colors for plotting in both cases.
 
 ### Assignment-6 : 
 - [ ] Write C++/Java program to draw the polygons by using the mouse. Choose colors by clicking on the designed color pane. Use window port to draw. Use DDA algorithm for line drawing.
@@ -81,7 +81,9 @@ Use operator overloading
 
 ### Assignment-22 : 
 - [ ] Write C++/Java program to draw 3-D cube and perform following transformations on it using OpenGL. 
-a) Scaling  b) Translation  c) Rotation about one axis
+1. Scaling  
+2. Translation  
+3. Rotation about one axis
 
 ### Assignment-23 : 
 - [ ] Design and simulate any data structure like stack, queue, and trees using graphics. Simulation should include all operations performed on designed data structure. Implement the sameusing OpenGL.
