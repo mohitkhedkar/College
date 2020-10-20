@@ -29,7 +29,7 @@
 - [ ] Write C++/Java program to draw the polygons by using the mouse. Choose colors by clicking on the designed color pane. Use window port to draw. Use DDA algorithm for line drawing.
 
 ### Assignment-7 : 
-- [ ] Write C++/Java program to draw inscribed and Circumscribed circles in the triangle as shown as an example below. (Use any Circle drawing and Line drawing algorithms) 
+- [x] Write C++/Java program to draw inscribed and Circumscribed circles in the triangle as shown as an example below. (Use any Circle drawing and Line drawing algorithms) 
 ![](Img/Fig1.JPG)
 
 ### Assignment-8 : 
