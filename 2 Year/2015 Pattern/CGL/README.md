@@ -18,7 +18,7 @@
     Use operator overloading
 
 ### Assignment-4 : 
-- [ ] Write C++/Java program to fill polygon using scan line algorithm. Use mouse interfacing to draw polygon.
+- [x] Write C++/Java program to fill polygon using scan line algorithm. Use mouse interfacing to draw polygon.
 
 ### Assignment-5 : 
 - [ ] A  Mandelbrot  Set  is  a  set  of  complex  number  z  that  does  not  diverge  under  the transformation xn+1 - x^2n |z with x0 -0 .Where,  both  x  and  z  represent  the  complex numbers. Write C++/Java program to
@@ -45,13 +45,13 @@
 - [x] Write C++/Java program for line drawing using DDA or Bresenhams algorithm with patterns such as solid, dotted, dashed, dash dot and thick.
 
 ### Assignment-11 : 
-- [ ] Write C++/Java program to draw a convex polygon and fill it with desired color using Seed fill algorithm. Use mouse interfacing to draw polygon.
+- [x] Write C++/Java program to draw a convex polygon and fill it with desired color using Seed fill algorithm. Use mouse interfacing to draw polygon.
 
 ### Assignment-12 : 
 - [ ] Write C++/Java program to draw a concave polygon and fill it with desired pattern using scan line algorithm. Use mouse interfacing to draw polygon.
 
 ### Assignment-13 : 
-- [ ] Write C++/Java program to implement Cohen-Sutherland line clipping algorithm for given window. Draw line using mouse interfacing to draw polygon.
+- [x] Write C++/Java program to implement Cohen-Sutherland line clipping algorithm for given window. Draw line using mouse interfacing to draw polygon.
 
 ### Assignment-14 : 
 - [ ] Write C++/Java program to draw any object such as flower, waves using any curve generation techniques.
