@@ -11,7 +11,7 @@
 - [x] Write C++/Java program to draw circle using Bresenham‘s algorithm. Inherit pixel class.
 
 ### Assignment-3 : 
-- [ ] Write C++/Java program to draw 2-D object and perform following basic transformations.
+- [x] Write C++/Java program to draw 2-D object and perform following basic transformations.
 1. Scaling
 2. Translation
 3. Rotation
@@ -26,7 +26,7 @@
  2. Plot Julia set choosing z ≠ 0. Use 254 colors for plotting in both cases.
 
 ### Assignment-6 : 
-- [ ] Write C++/Java program to draw the polygons by using the mouse. Choose colors by clicking on the designed color pane. Use window port to draw. Use DDA algorithm for line drawing.
+- [x] Write C++/Java program to draw the polygons by using the mouse. Choose colors by clicking on the designed color pane. Use window port to draw. Use DDA algorithm for line drawing.
 
 ### Assignment-7 : 
 - [x] Write C++/Java program to draw inscribed and Circumscribed circles in the triangle as shown as an example below. (Use any Circle drawing and Line drawing algorithms) 
