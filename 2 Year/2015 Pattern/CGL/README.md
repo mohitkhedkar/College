@@ -37,7 +37,7 @@
 ![](Img/Fig2.JPG)
 
 ### Assignment-9 : 
-- [ ] Write C++/Java program to draw a4X4 chessboard rotated 45 ̊ with the horizontal axis. Use Bresenham algorithm to draw all the lines. Use seed fill algorithm to fill black squares of the rotated chessboard.
+- [x] Write C++/Java program to draw a4X4 chessboard rotated 45 ̊ with the horizontal axis. Use Bresenham algorithm to draw all the lines. Use seed fill algorithm to fill black squares of the rotated chessboard.
 
 ## Group B
 
@@ -80,7 +80,7 @@
 ## Group C
 
 ### Assignment-22 : 
-- [ ] Write C++/Java program to draw 3-D cube and perform following transformations on it using OpenGL. 
+- [x] Write C++/Java program to draw 3-D cube and perform following transformations on it using OpenGL. 
 1. Scaling  
 2. Translation  
 3. Rotation about one axis
@@ -89,10 +89,10 @@
 - [ ] Design and simulate any data structure like stack, queue, and trees using graphics. Simulation should include all operations performed on designed data structure. Implement the sameusing OpenGL.
 
 ### Assignment-24 : 
-- [ ] Write C++/Java program to drawimplement Cube rotation about vertical axis passing through its centroid.
+- [ ] Write C++/Java program to draw implement Cube rotation about vertical axis passing through its centroid.
 
 ### Assignment-25 : 
-- [ ] Write C++/Java program to generate fractal patterns by using Koch curves.
+- [x] Write C++/Java program to generate fractal patterns by using Koch curves.
 
 ### Assignment-26 : 
 - [ ] Write C++/Java program to simulate any one of or similar scene-
