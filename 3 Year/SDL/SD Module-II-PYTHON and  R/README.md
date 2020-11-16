@@ -6,7 +6,7 @@
 - [x] Getting Started with Python (Example Word count exercise).
 
 ### Assignment-2 :
-- [ ] Build the HangmanGame using Python.
+- [x] Build the HangmanGame using Python.
 
 ### Assignment-3 :
 - [x] Write python code that loads any dataset (example Game_medal.csv), and plot the graph.
