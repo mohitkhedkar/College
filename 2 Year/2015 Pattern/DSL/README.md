@@ -50,7 +50,7 @@
  4. Add, subtract and multiply two matrices 
 
 ### Assignment-10 :
-- [ ] Write C++ program with class for String. Write a function
+- [x] Write C++ program with class for String. Write a function
  1. frequency that  determines  the  frequency  of  occurrence  of  particular  character  in  the string. 
  2. delete that accepts two integers, startand length. The function computes a new string that is equivalent to the original string, except that lengthcharacters being at starthave been removed.
  3. chardelete that accepts a character c. The function returns the string with all occurrences of cremoved.
@@ -61,10 +61,10 @@
 - [ ] Write  C++  program  for  sparse  matrix  realization  and  operations  on  it-Transpose,  Fast Transpose and addition of two matrices
 
 ### Assignment-12 :
-- [ ] Write C++ program for string operations-copy, concatenate, check substring, equal, reverse  and length.
+- [x] Write C++ program for string operations-copy, concatenate, check substring, equal, reverse  and length.
 
 ### Assignment-13 :
-- [ ] Write a C++ program to realize polynomial equation and perform operations. Write function 
+- [x] Write a C++ program to realize polynomial equation and perform operations. Write function 
  1. To input and output polynomials represented as bmxem+ bm-1xem-1+..... +b0xe0.Your functions should overload the << and >> operators.
  2. Evaluates a polynomial at given value of x2.
  3. Add two polynomials3.
@@ -81,7 +81,7 @@
  5. Two linked lists existsfor two divisions. Concatenate two lists.
 
 ### Assignment-15 :
-- [ ] The ticket booking system of Cinemax theater has to be implemented using C++ program. There are 10 rows and 7 seats in each row. Doubly circular linked list has to be maintained to keep track of free seats at rows. Assume some random booking to start with. Use array to store pointers (Head pointer) to each row.  On demand 
+- [x] The ticket booking system of Cinemax theater has to be implemented using C++ program. There are 10 rows and 7 seats in each row. Doubly circular linked list has to be maintained to keep track of free seats at rows. Assume some random booking to start with. Use array to store pointers (Head pointer) to each row.  On demand 
 
  1. The list of available seats is to be displayed
  2. The seats are to be booked
@@ -142,10 +142,10 @@ To  erase  polynomials  efficiently,  we  need  to  use  an  available-space  li
  3.  to print string in reverse order using stack
 
 ### Assignment-24 :
-- [ ] In any language program mostly syntax error occurs due to unbalancing delimiter such as (),{},[].    Write  C++  program  using  stack  to  check  whether  given  expression  is  well parenthesized or not. 
+- [x] In any language program mostly syntax error occurs due to unbalancing delimiter such as (),{},[].    Write  C++  program  using  stack  to  check  whether  given  expression  is  well parenthesized or not. 
 
 ### Assignment-25 :
-- [ ] Implement C++ program for expression conversion as infix to postfix and its evaluation using   stack based on given conditions
+- [x] Implement C++ program for expression conversion as infix to postfix and its evaluation using   stack based on given conditions
  1. Operands and operator, both must be single character.
  2. Input Postfix expression must be in a desired format. 
  3. Only '+', '-', '*' and '/ ' operators are expected.
@@ -178,7 +178,7 @@ To  erase  polynomials  efficiently,  we  need  to  use  an  available-space  li
 ## [Group E]()
 
 ### Assignment-32 :
-- [ ] Write C++ program to store roll numbers of student in array who attended training program in random order. Write function for-
+- [x] Write C++ program to store roll numbers of student in array who attended training program in random order. Write function for-
  1. Searchingwhether particular student attended training program or not using linear search and sentinel search.  
  2. Searchingwhether particular student attended training program or not using binary search and Fibonacci search.  
 
@@ -191,17 +191,17 @@ To  erase  polynomials  efficiently,  we  need  to  use  an  available-space  li
 - [ ] Write C++ program to maintain club members, sort on roll numbers in ascending order. Write function  ̳Ternary_Search‘ to search whether particular student is member of club. Ternary search is modified binary search that divides array into 3 halves instead of two.
 
 ### Assignment-35 :
-- [ ] Write C++ program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
+- [x] Write C++ program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
  1. Selection Sort 
  2. Bubble sort and display top five scores.
  
 ### Assignment-36 :
-- [ ] Write C++ program to store second year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
+- [x] Write C++ program to store second year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
  1. Insertion sort  
  2. Shell Sort and display top five scores
 
 ### Assignment-37 :
-- [ ] Write C++ program to store first year percentage of students in array. Sort array of floating point numbers in ascending order using quick sort and display top five scores.
+- [x] Write C++ program to store first year percentage of students in array. Sort array of floating point numbers in ascending order using quick sort and display top five scores.
 
 ### Assignment-38 :
 - [ ] Write C++ program to store XII percentage of students in array. Sort array of floating point numbers in ascending order using bucket sort and display top five scores.
