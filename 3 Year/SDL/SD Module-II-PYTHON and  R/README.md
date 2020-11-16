@@ -9,7 +9,7 @@
 - [ ] Build the HangmanGame using Python.
 
 ### Assignment-3 :
-- [ ] Write python code that loads any dataset (example Game_medal.csv), and plot the graph.
+- [x] Write python code that loads any dataset (example Game_medal.csv), and plot the graph.
 
 ### Assignment-4 :
 - [ ] Write python code that loads any dataset (example Game_medal.csv), and does some basic data cleaning. Add component ondata set.
