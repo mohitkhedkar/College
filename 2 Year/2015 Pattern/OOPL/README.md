@@ -28,7 +28,7 @@ Implement the following operations:
 4. It allows the reading or printing of array through the use of coutand cin
 
 ### Assignment-5 : 
-- [ ] Write a C++ program create a calculator for an arithmetic operator (+, -, *, /).  The program should  take  two  operands  from  user  and  performs  the  operation  on  those  two  operands depending upon the operator entered byuser. Use a switch statement to select the operation. Finally, display the result. 
+- [x] Write a C++ program create a calculator for an arithmetic operator (+, -, *, /).  The program should  take  two  operands  from  user  and  performs  the  operation  on  those  two  operands depending upon the operator entered byuser. Use a switch statement to select the operation. Finally, display the result. 
 Some sample interaction with the program might look like this:
 Enter first number, operator, second number: 10 / 3
 Answer = 3.333333
@@ -100,10 +100,10 @@ Use a class object to store each set of data, access the file created and implem
 3. Update the telephone number, whenever there is a change.
 
 ### Assignment-16 : 
-- [ ] Write a C++ program that creates an output file, writes information to it, closes the file and open it again as an input file and read the information from the file.
+- [x] Write a C++ program that creates an output file, writes information to it, closes the file and open it again as an input file and read the information from the file.
 
 ### Assignment-17 : 
-- [ ] Write a C++ program using command line arguments to search for a word in a file and replace it with the specified word. The usage of the program is shown below. $  change <old word> <new word> <file name>
+- [x] Write a C++ program using command line arguments to search for a word in a file and replace it with the specified word. The usage of the program is shown below. $  change <old word> <new word> <file name>
 
 ### Assignment-18 : 
 - [X] Write a function template selection Sort. Write a program that inputs, sorts and outputs an integerarray and a float array.
@@ -123,7 +123,7 @@ Use a class object to store each set of data, access the file created and implem
 - [X] Write C++ program using STL for implementation of Singly, doubly and circular linked list.
 
 ### Assignment-21 :
-Write C++ program using STL for implementation of stack & queue using SLL 
+- [x] Write C++ program using STL for implementation of stack & queue using SLL 
 
 ### Assignment-22 :
 - [X] Write C++ program using STL toadd binary numbers (assume one bit as one number); use STL stack.
