@@ -5,7 +5,7 @@
 ## Group A
 
 ### Assignment-1 :
-- [ ] A book consists of chapters, chapters consist of sections and sections consist of subsections. Construct a tree and print the nodes.  Find the time and space requirements of your method.
+- [x] A book consists of chapters, chapters consist of sections and sections consist of subsections. Construct a tree and print the nodes.  Find the time and space requirements of your method.
 
 ### Assignment-2 :
 - [x] Beginning with an empty binary search tree, Construct binary search tree by inserting the values in the order given. After constructing a binary tree -
@@ -36,7 +36,7 @@
 ## Group B
 
 ### Assignment-9 :
-- [ ] Write a function to get the number of vertices in an undirected graph and its edges. You may assume thatno edge is input twice. 
+- [x] Write a function to get the number of vertices in an undirected graph and its edges. You may assume that no edge is input twice. 
 1. Use adjacency list representation of the graph and find runtime of the function
 2. Use adjacency matrix representation of the graph and find runtime of the function
 
@@ -77,12 +77,12 @@
 - [ ] Given sequence k = k1 <k2 < ... < kn of n sorted keys, with a search probability pi for each key ki . Build the Binary search tree that has the least search cost given the access probability for each key.
 
 ### Assignment-19 :
-- [ ] A  Dictionary  stores  keywords  &  its  meanings.  Provide  facility  for  adding  new  keywords, deleting keywords, updating values of any entry. Provide facility to display whole data sorted in ascending/ Descending order. Also find how many maximum comparisons may require for finding any keyword. Use Height balance tree and find the complexity for finding a keyword
+- [x] A  Dictionary  stores  keywords  &  its  meanings.  Provide  facility  for  adding  new  keywords, deleting keywords, updating values of any entry. Provide facility to display whole data sorted in ascending/ Descending order. Also find how many maximum comparisons may require for finding any keyword. Use Height balance tree and find the complexity for finding a keyword
 
 ## Group E
 
 ### Assignment-20 :
-- [ ] To create ADT that implements the SETconcept.
+- [x] To create ADT that implements the SETconcept.
 1. Add (newElement) -Place a value into the set   
 2. Remove (element) Remove the value 
 3. Contains (element) Return true if element is in collection 
@@ -115,7 +115,7 @@
 - [x] Any  application  defining  scope  of  Formal  parameter,  Global  parameter,  Local  parameter accessing mechanism and also relevance to private, public and protected access.  Write a Java program which demonstrates the scope rules of the programming mechanism.
 
 ### Assignment-27 :
-- [ ] Write a Java program which will demonstrate aconcept of Interfaces and packages: In this assignment design and use of customized interfaces and packages for a specific application are expected.
+- [x] Write a Java program which will demonstrate aconcept of Interfaces and packages: In this assignment design and use of customized interfaces and packages for a specific application are expected.
 
 ### Assignment-28 :
 - [ ] Write  a  Java  program  which  will  demonstrate  a  concept  of  cohesion  and  coupling  of  the various modules in the program.
