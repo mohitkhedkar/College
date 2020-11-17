@@ -18,7 +18,7 @@
 - [x] Write a program for error detection and correction for 7/8 bits ASCII codes using Hamming Codes or CRC. Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode. (Use C/C++)
 
 ### Assignment-4 :
-- [ ] Write a program to simulate Go back N and Selective Repeat Modes of Sliding Window Protocol in peer to peer mode and demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode. (Use JAVA/PYTHON)
+- [x] Write a program to simulate Go back N and Selective Repeat Modes of Sliding Window Protocol in peer to peer mode and demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode. (Use JAVA/PYTHON)
 
 ### Assignment-5 :
 - [ ] Write a program to demonstrate subletting and find the subnet masks (Use JAVA/PYTHON)
@@ -28,10 +28,10 @@
 
 ### Assignment-7 :
 - [ ] Write a program using TCP socket for wired network for following
-1. Say Hello to Each other ( For all students)
-2. File transfer ( For all students)
-3. Calculator (Arithmetic) (50% students)
-4. Calculator (Trigonometry) (50% students)
+    - [ ] 1. Say Hello to Each other ( For all students)
+    - [ ] 2. File transfer ( For all students)
+    - [ ] 3. Calculator (Arithmetic) (50% students)
+    - [ ] 4. Calculator (Trigonometry) (50% students)
     Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode.  (Use C/C++)
     
 ### Assignment-8 :
@@ -48,7 +48,7 @@
 - [ ] Write a program to simulate the behavior of Slow Start and AIMD (Additive Increase and Multiplicative Decrease) congestion control protocols. (Use JAVA/PYTHON)
 
 ### Assignment-11 :
-- [ ] Write a program for DNS lookup. Given an IP address input, it should return URL and viceversa. (Use JAVA/PYTHON)
+- [x] Write a program for DNS lookup. Given an IP address input, it should return URL and viceversa. (Use JAVA/PYTHON)
 
 ### Assignment-12 :
 - [x] Installing and configure DHCP server and write a program to install the software on remote machine.
