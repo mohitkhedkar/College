@@ -12,7 +12,7 @@
 - [x] Write python code that loads any dataset (example Game_medal.csv), and plot the graph.
 
 ### Assignment-4 :
-- [ ] Write python code that loads any dataset (example Game_medal.csv), and does some basic data cleaning. Add component ondata set.
+- [x] Write python code that loads any dataset (example Game_medal.csv), and does some basic data cleaning. Add component ondata set.
 
 ## List of Assignments on Data Science with R
 
