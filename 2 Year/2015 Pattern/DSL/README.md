@@ -111,7 +111,7 @@
  4. For two lists that are sorted; Merge these two lists into third resultant list that is sorted 
 
 ### Assignment-19 :
-- [ ] Write C++ program for storing binary number using doubly linked lists. Write functions-
+- [x] Write C++ program for storing binary number using doubly linked lists. Write functions-
  1. to compute 1‘s and 2‘s complement.
  2. add two binary numbers
 
@@ -164,16 +164,16 @@ To  erase  polynomials  efficiently,  we  need  to  use  an  available-space  li
 ## [Group D]()
 
 ### Assignment-28 :
-- [ ] Queues are frequently used in computer programming, and a typical example is the creation of a job queue by an operating system. If the operating system does not use priorities, then the jobs are processed in the order they enter the system. Write C++ program for simulating job queue. Write functions to add job and delete job from queue. 
+- [x] Queues are frequently used in computer programming, and a typical example is the creation of a job queue by an operating system. If the operating system does not use priorities, then the jobs are processed in the order they enter the system. Write C++ program for simulating job queue. Write functions to add job and delete job from queue. 
 
 ### Assignment-29 :
 - [ ] Write program to implement a priority queue in C++ using an inorder List to store the items in the queue. Create a class that includes the data items(which should be template) and the priority (which should be int)The inorder list should contain  these objects ,with operator <= overloaded so that the  items with highest priority appear at the beginning of the list (which will make it relatively easy to retrieve the highest item.)
 
 ### Assignment-30 :
-- [ ] A double-ended queue(deque) is a linear list in which additions and deletions may be made at either end. Obtain a data representation mapping a deque into a one-dimensional array. Write C++ program to simulate deque with functions to add and delete elements from either end of the deque.
+- [x] A double-ended queue(deque) is a linear list in which additions and deletions may be made at either end. Obtain a data representation mapping a deque into a one-dimensional array. Write C++ program to simulate deque with functions to add and delete elements from either end of the deque.
 
 ### Assignment-31 :
-- [ ] Pizza  parlor  accepting  maximum  M  orders.  Orders  are  served  in  first  come  first  served basis. Order once placed cannotbe cancelled. Write C++ program to simulate the system using circular queue using array.
+- [x] Pizza  parlor  accepting  maximum  M  orders.  Orders  are  served  in  first  come  first  served basis. Order once placed cannotbe cancelled. Write C++ program to simulate the system using circular queue using array.
 
 ## [Group E]()
 
