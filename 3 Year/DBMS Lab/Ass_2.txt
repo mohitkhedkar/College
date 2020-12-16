@@ -1,0 +1,35 @@
+mysql> use Demostudent;
+Database changed
+mysql> show tables;
+Empty set (0.02 sec)
+
+mysql> create table info(client_no int,client_name
+varchar(20),address varchar(50),city varchar(10),pincode
+int,state varchar(20), bal_due float,primary key(client_no));
+Query OK, 0 rows affected (0.51 sec)
+
+mysql> select * from info;
+Empty set (0.02 sec)
+
+mysql> insert into info
+values('001','mohit','pune','pune','422004','MH','5000');
+Query OK, 1 row affected (0.14 sec)
+
+mysql> insert into info
+values('002','piyu','pune','pune','422004','MH','10000');
+Query OK, 1 row affected (0.09 sec)
+
+mysql> insert into info
+values('003','abd','pune','pune','422003','MH','5000');
+Query OK, 1 row affected (0.06 sec)
+
+mysql> insert into info
+values('004','abd','pune','pune','422003','MH','5000');
+Query OK, 1 row affected (0.05 sec)
+
+mysql> insert into info
+values('005','abc','pune','pune','422003','MH','50 00');
+
+mysql> select client_name,client_no from client_master;
+
+mysql> select * from Demostudent;
