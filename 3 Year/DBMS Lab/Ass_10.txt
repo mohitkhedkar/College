@@ -1,0 +1,45 @@
+Assignment 10 : Design and Develop MongoDB Queries using CRUD operations. (Use CRUD operations, SAVE method, logical operators)
+Code :
+
+> use test
+> db.createCollection("mycollection")
+> db.mycollection.insert({stud_id : 01, stud_name:"Mohit",stud_mks: 70, stud_class:8})
+> db.mycollection.insert({stud_id : 02, stud_name:"hemanshu",stud_mks: 80, stud_class:9})
+> db.mycollection.insert({stud_id : 03, stud_name:"ajay",stud_mks: 60, stud_class:9})
+> db.mycollection.insert({stud_id : 04, stud_name:"rohit",stud_mks: 90, stud_class:7})
+> db.mycollection.find()
+> db.mycollection.insertOne({stud_id:05,stud_name:"vicky",stud_mks:78,stud_class:10})
+> db.mycollection.insertMany([
+... {stud_id:06,stud_name:"megha",stud_mks:89,stud_class:9},
+... {stud_id:07,stud_name:"shreya",stud_mks:98,stud_class:10}
+... ]);
+
+> db.mycollection.find()
+
+> db.mycollection.update({'stud_id':01},{$set:{'name':”binod”}})
+> db.mycollection.find()
+> db.mycollection.updateOne({"stud_name":"vicky"},{$set:{"marks":70}})
+> db.mycollection.find()
+> db.mycollection.remove({'stud_id':07})
+> db.mycollection.find()
+> db.mycollection.deleteOne({'stud_id':06})
+> db.mycollection.find()
+> db.mycollection.deleteMany({'stud_class':9})
+> db.mycollection.find()
+
+> db.mycollection.save({"stud_id":1,"stud_name":"rina","stud_mks":70,"stud_class":8})
+> db.mycollection.find()
+> db.mycollection.save({"stud_id":4,"stud_name":"rohit","stud_mks":90,"stud_class":7})
+> db.mycollection.find()
+> db.mycollection.save({"stud_id":2,"stud_name":"vaidehi","stud_mks":90,"stud_class":8})
+> db.mycollection.find()
+
+> db.mycollection.find({$or:[{"stud_id":01},{"stud_name":"mohit"}]})
+
+> db.mycollection.find({$and:[{"stud_id":01},{"stud_name":"mohit"}]})
+> db.mycollection.find({$and:[{"stud_id":04},{"stud_name":"rohit"}]})
+> db.mycollection.replaceOne({"stud_id":1},{"stud_mks":70},{"stud_mks":80})
+> db.mycollection.find()
+> db.mycollection.replaceOne({"stud_name":"rohit"},{"stud_name":"manasi"},{"stud_class":6})
+> db.mycollection.find()
+
