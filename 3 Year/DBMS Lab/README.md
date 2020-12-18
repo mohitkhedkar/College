@@ -8,7 +8,7 @@
 - [ ] Study of Open Source Relational Databases : MySQL
 
 ### Assignment-2 :
-- [ ] Design and Develop SQL DDL statements which demonstrate the use of SQL objects such as Table, View, Index, Sequence, Synonym
+- [x] Design and Develop SQL DDL statements which demonstrate the use of SQL objects such as Table, View, Index, Sequence, Synonym
 
 ### Assignment-3 :
 - [ ] Design at least 10 SQL queries for suitable database application using SQL DML statements: Insert, Select, Update, Delete with operators, functions, and set operator.
