@@ -5,7 +5,7 @@
 ## Group A
 
 ### Assignment-1 :
-- [ ] Study of Open Source Relational Databases : MySQL
+- [x] Study of Open Source Relational Databases : MySQL
 
 ### Assignment-2 :
 - [x] Design and Develop SQL DDL statements which demonstrate the use of SQL objects such as Table, View, Index, Sequence, Synonym
