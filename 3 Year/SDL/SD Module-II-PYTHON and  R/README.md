@@ -40,4 +40,6 @@
 - [ ] Applying linear regression model to a real world problem.
 
 ### Mini Project-4 :
-- [x] (Git Project Initialization Automation)[https://github.com/mohitkhedkar/Git-Automation].
+- [x] Git Project Initialization Automation.
+ 
+ #### link: https://github.com/mohitkhedkar/Git-Automation.
