@@ -5,9 +5,9 @@
 
 ## Subjects
 
-- [ ] 1. [Skill Development Lab (SDL)]().
-- [ ] 2. [Database Management System Lab (DBMS Lab)]().
-- [ ] 3. [Computer Networks Lab (CNL)]().
+- [ ] 1. [Skill Development Lab (SDL)](SDL).
+- [ ] 2. [Database Management System Lab (DBMSL)](DBMS%20Lab).
+- [ ] 3. [Computer Networks Lab (CNL)](CNL).
 - [ ] 4. [Web Technology Lab]().
 - [ ] 5. [System Programming & Operating System Lab (SP & OP Lab)]().
 - [ ] 6. [Embedded Systems & Internet of Things Lab (ES & IoT Lab)]().
