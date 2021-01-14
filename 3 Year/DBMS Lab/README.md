@@ -74,10 +74,18 @@
 - [ ] Using the database concepts covered in Part-I & Part-II & connectivity concepts covered in Part C, students in group are expected to design and develop database application with following details:
   Requirement Gathering and Scope finalization
     Database Analysis and Design:
-       - [ ]  Design Entity Relationship Model, Relational Model, Database Normalization
+   
+   - [ ]  Design Entity Relationship Model, Relational Model, Database Normalization
     Implementation :
-       - [ ]   Front End : Java/Perl/PHP/Python/Ruby/.net
-       - [ ]   Backend : MongoDB/MYSQL/Oracle
-       - [ ]   Database Connectivity : ODBC/JDBC
+   
+   - [ ]   Front End : Java/Perl/PHP/Python/Ruby/.net
+   
+   - [ ]   Backend : MongoDB/MYSQL/Oracle
+   
+   - [ ]   Database Connectivity : ODBC/JDBC
+    
     Testing : Data Validation
          Group of students should submit the Project Report which will be consist of documentation related to different phases of Software Development Life Cycle: Title of the Project, Abstract, Introduction, scope, Requirements, Data Modeling features, Data Dictionary, Relational Database Design, Database Normalization, Graphical User Interface, Source Code, Testing document, Conclusion. Instructor should maintain progress report of mini project throughout the semester from project group and assign marks as a part of the term work
+
+### Assignment-4 :
+- [ ] Implementing Student Attendance Management System using Mysql database connectivity with PHP.
