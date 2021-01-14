@@ -14,7 +14,7 @@
 - [x] Design at least 10 SQL queries for suitable database application using SQL DML statements: Insert, Select, Update, Delete with operators, functions, and set operator.
 
 ### Assignment-4 :
-- [ ]  Design at least 10 SQL queries for suitable database application using SQL DML statements: all types of Join, Sub-Query and View
+- [x]  Design at least 10 SQL queries for suitable database application using SQL DML statements: all types of Join, Sub-Query and View
 
 ### Assignment-5 :
 - [ ] Unnamed PL/SQL code block: Use of Control structure and Exception handling is mandatory. Write a PL/SQL block of code for the following requirements:-
