@@ -84,7 +84,7 @@
    
    - [ ]   Database Connectivity : ODBC/JDBC
     
-    Testing : Data Validation
+   - [ ]   Testing : Data Validation
          Group of students should submit the Project Report which will be consist of documentation related to different phases of Software Development Life Cycle: Title of the Project, Abstract, Introduction, scope, Requirements, Data Modeling features, Data Dictionary, Relational Database Design, Database Normalization, Graphical User Interface, Source Code, Testing document, Conclusion. Instructor should maintain progress report of mini project throughout the semester from project group and assign marks as a part of the term work
 
 ### Assignment-4 :
