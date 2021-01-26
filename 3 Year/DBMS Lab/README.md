@@ -42,7 +42,7 @@
 ## Group B
 
 ### Assignment-1 :
-- [ ]  Study of Open Source NOSQL Database: MongoDB (Installation, Basic CRUD operations,Execution)
+- [x]  Study of Open Source NOSQL Database: MongoDB (Installation, Basic CRUD operations,Execution)
 
 ### Assignment-2 :
 - [ ] Design and Develop MongoDB Queries using CRUD operations. (Use CRUD operations, SAVE method, logical operators)
