@@ -13,6 +13,7 @@
 ##### Basic CRUD Operation
 
 * Creating & Inserting Values in new Database 
+```bash 
 > show dbs
 admin   0.000GB
 config  0.000GB
@@ -21,15 +22,18 @@ local   0.000GB
 switched to db demodb
 > db.student.insert({"name":"mohit"})
 WriteResult({ "nInserted" : 1 })
-
+```
 * Showing Database
+```bash
 > show dbs
 admin   0.000GB
 config  0.000GB
 demodb  0.000GB
 local   0.000GB
+```
 
 * Drop Database
+```bash
 > use demodb
 switched to db demodb
 > db.dropDatabase()
@@ -38,3 +42,4 @@ switched to db demodb
 admin   0.000GB
 config  0.000GB
 local   0.000GB
+```
