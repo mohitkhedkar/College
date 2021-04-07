@@ -6,3 +6,19 @@
 ## List of Assignments
 
 ### Assignment-1:
+- [ ] Implement Euclid’s algorithm to find the GCD of two integers. Further implement extended 
+Euclidean algorithm to find the multiplicative inverse of the given integer.
+
+### Assignment-2:
+- [ ] Develop the program to implement DES algorithm for encryption and decryption. Assume 
+suitable key.
+
+### Assignment-3:
+- [ ] Develop the program to implement RSA algorithm for encryption and decryption. Assume 
+suitable Private and Public Keys.
+
+### Assignment-4:
+- [ ] Write a program to implement SHA1 algorithm using libraries (API) 
+
+### Assignment-5:
+- [ ] Configure and demonstrate use of vulnerability assessment tool like Wireshark or SNORT
