@@ -21,4 +21,4 @@ suitable Private and Public Keys.
 - [x] Write a program to implement SHA1 algorithm using libraries (API) 
 
 ### Assignment-5:
-- [ ] Configure and demonstrate use of vulnerability assessment tool like Wireshark or SNORT
+- [x] Configure and demonstrate use of vulnerability assessment tool like Wireshark or SNORT
