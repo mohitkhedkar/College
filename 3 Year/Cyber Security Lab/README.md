@@ -14,7 +14,7 @@ Euclidean algorithm to find the multiplicative inverse of the given integer.
 suitable key.
 
 ### Assignment-3:
-- [ ] Develop the program to implement RSA algorithm for encryption and decryption. Assume 
+- [x] Develop the program to implement RSA algorithm for encryption and decryption. Assume 
 suitable Private and Public Keys.
 
 ### Assignment-4:
