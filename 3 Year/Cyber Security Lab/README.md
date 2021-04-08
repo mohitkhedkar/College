@@ -6,7 +6,7 @@
 ## List of Assignments
 
 ### Assignment-1:
-- [ ] Implement Euclid’s algorithm to find the GCD of two integers. Further implement extended 
+- [x] Implement Euclid’s algorithm to find the GCD of two integers. Further implement extended 
 Euclidean algorithm to find the multiplicative inverse of the given integer.
 
 ### Assignment-2:
