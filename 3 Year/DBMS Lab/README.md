@@ -57,7 +57,7 @@
 - [ ] Design and Implement any 5 query using MongoDB
 
 ### Assignment-6 :
-- [ ] Implement Map reduces operation with suitable example using MongoDB.
+- [x] Implement Map reduces operation with suitable example using MongoDB.
 
 ### Assignment-7 :
 - [ ] Encode and Decode JSON Objects using Java/Perl/PHP/Python/Ruby
