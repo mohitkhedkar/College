@@ -48,7 +48,7 @@
 - [x] Design and Develop MongoDB Queries using CRUD operations. (Use CRUD operations, SAVE method, logical operators)
 
 ### Assignment-3 :
-- [ ]  Implement aggregation and indexing with suitable example using MongoDB.
+- [x]  Implement aggregation and indexing with suitable example using MongoDB.
 
 ### Assignment-4 :
 - [ ] Implement Map reduces operation with suitable example using MongoDB.

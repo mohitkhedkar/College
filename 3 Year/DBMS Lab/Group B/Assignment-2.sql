@@ -1,6 +1,6 @@
-<!-- Design and Develop MongoDB Queries using CRUD operations. (Use CRUD operations, SAVE method, logical operators) -->
+-- Design and Develop MongoDB Queries using CRUD operations. (Use CRUD operations, SAVE method, logical operators)
 
-<!-- Author: Mohit Khedkar -->
+-- Author: Mohit Khedkar 
 
 > use mohit;
 switched to db mohit
