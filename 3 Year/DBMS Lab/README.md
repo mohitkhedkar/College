@@ -54,7 +54,7 @@
 - [x] Create simple objects and array objects using JSON
 
 ### Assignment-5 :
-- [ ] Design and Implement any 5 query using MongoDB
+- [x] Design and Implement any 5 query using MongoDB
 
 ### Assignment-6 :
 - [x] Implement Map reduces operation with suitable example using MongoDB.
