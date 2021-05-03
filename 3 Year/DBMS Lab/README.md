@@ -51,13 +51,13 @@
 - [x]  Implement aggregation and indexing with suitable example using MongoDB.
 
 ### Assignment-4 :
-- [ ] Implement Map reduces operation with suitable example using MongoDB.
+- [x] Create simple objects and array objects using JSON
 
 ### Assignment-5 :
 - [ ] Design and Implement any 5 query using MongoDB
 
 ### Assignment-6 :
-- [ ] Create simple objects and array objects using JSON
+- [ ] Implement Map reduces operation with suitable example using MongoDB.
 
 ### Assignment-7 :
 - [ ] Encode and Decode JSON Objects using Java/Perl/PHP/Python/Ruby
