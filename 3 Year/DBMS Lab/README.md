@@ -45,7 +45,7 @@
 - [x]  Study of Open Source NOSQL Database: MongoDB (Installation, Basic CRUD operations,Execution)
 
 ### Assignment-2 :
-- [ ] Design and Develop MongoDB Queries using CRUD operations. (Use CRUD operations, SAVE method, logical operators)
+- [x] Design and Develop MongoDB Queries using CRUD operations. (Use CRUD operations, SAVE method, logical operators)
 
 ### Assignment-3 :
 - [ ]  Implement aggregation and indexing with suitable example using MongoDB.
