@@ -35,7 +35,7 @@
     Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode.  (Use C/C++)
     
 ### Assignment-8 :
-- [ ] Write a program using UDP Sockets to enable file transfer (Script, Text, Audio and Video one file each) between two machines. Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode.  (Use C/C++)
+- [x] Write a program using UDP Sockets to enable file transfer (Script, Text, Audio and Video one file each) between two machines. Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode.  (Use C/C++)
 
 ### Assignment-9 :
 - [ ] Write a program to analyze following packet formats captured through Wireshark for wired network. (Use C/C++)
