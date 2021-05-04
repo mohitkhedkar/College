@@ -66,7 +66,7 @@
 - [ ] Study of any network simulation tools - To create a network with three nodes and establish a TCP connection between node 0 and node 1 such that node 0 will send TCP packet to node 2 via node 1  (Use JAVA/PYTHON)
 
 ### Assignment-3 :
-- [ ]  Write a program using TCP sockets for wired network to implement
+- [x]  Write a program using TCP sockets for wired network to implement
 1. Peer to Peer Chat
 2. Multiuser Chat 
     Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode. (Use JAVA/PYTHON)
