@@ -27,11 +27,11 @@
 - [ ] Write a program to simulate the behavior of link state routing protocol to find suitable path for transmission. (Use JAVA/PYTHON)
 
 ### Assignment-7 :
-- [ ] Write a program using TCP socket for wired network for following
+- [x] Write a program using TCP socket for wired network for following
     - [ ] 1. Say Hello to Each other ( For all students)
     - [ ] 2. File transfer ( For all students)
-    - [ ] 3. Calculator (Arithmetic) (50% students)
-    - [ ] 4. Calculator (Trigonometry) (50% students)
+    - [x] 3. Calculator (Arithmetic) (50% students)
+    - [x] 4. Calculator (Trigonometry) (50% students)
     Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode.  (Use C/C++)
     
 ### Assignment-8 :
