@@ -21,7 +21,7 @@
 - [x] Write a program to simulate Go back N and Selective Repeat Modes of Sliding Window Protocol in peer to peer mode and demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode. (Use JAVA/PYTHON)
 
 ### Assignment-5 :
-- [ ] Write a program to demonstrate subletting and find the subnet masks (Use JAVA/PYTHON)
+- [x] Write a program to demonstrate subletting and find the subnet masks (Use JAVA/PYTHON)
 
 ### Assignment-6 :
 - [ ] Write a program to simulate the behavior of link state routing protocol to find suitable path for transmission. (Use JAVA/PYTHON)
