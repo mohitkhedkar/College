@@ -72,7 +72,7 @@
     Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode. (Use JAVA/PYTHON)
 
 ### Assignment-4 :
-- [ ] Write a program using UDP sockets for wired network to implement
+- [x] Write a program using UDP sockets for wired network to implement
 1. Peer to Peer Chat
 2. Multiuser Chat
     Demonstrate the packets captured traces using Wireshark Packet Analyzer Tool for peer to peer mode.(Use JAVA/PYTHON)
