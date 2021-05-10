@@ -1,11 +1,45 @@
-# Skill Development Lab (SDL).
+# Python and Data Science with R 
 
-- [ ] [SD Module-I: Advanced  JAVA and Mobile Application Development](https://github.com/mohitkhedkar/College/tree/main/3%20Year/SDL/SD%20Module-I-Advanced%20%20JAVA%20and%20Mobile%20Application%20Development)
+## List of Assignments on Python
+ 
+### Assignment-1 :
+- [x] Getting Started with Python (Example Word count exercise).
 
-- [ ] [SD Module-II: PYTHON and  DATA Science with R](https://github.com/mohitkhedkar/College/tree/main/3%20Year/SDL/SD%20Module-II-PYTHON%20and%20%20R)
+### Assignment-2 :
+- [x] Build the HangmanGame using Python.
 
-- [ ] [SD Module-III:Advanced  JAVA and  GROOVY on GRAILS](https://github.com/mohitkhedkar/College/tree/main/3%20Year/SDL/SD%20Module-III-Advanced%20%20JAVA%20and%20%20GROOVY%20on%20GRAILS)
+### Assignment-3 :
+- [x] Write python code that loads any dataset (example Game_medal.csv), and plot the graph.
 
-- [ ] [SD Module-IV: SCHEME and  SCALA  and  GROOVY on GRAILS](https://github.com/mohitkhedkar/College/tree/main/3%20Year/SDL/SD%20Module-IV-SCHEME%20and%20%20SCALA%20%20and%20%20GROOVY%20on%20GRAILS)
+### Assignment-4 :
+- [x] Write python code that loads any dataset (example Game_medal.csv), and does some basic data cleaning. Add component ondata set.
 
-- [ ] [SD Module-V: Advanced JAVA and Data Science with R](https://github.com/mohitkhedkar/College/tree/main/3%20Year/SDL/SD%20Module-V-Advanced%20JAVA%20and%20Data%20Science%20with%20R)
+## List of Assignments on Data Science with R
+
+### Assignment-1 :
+- [ ] Getting Started with R installation, R objects and basic statistics.
+
+### Assignment-2 :
+- [ ] Using R for data preprocessing, exploratory analysis, visualization.
+
+### Assignment-3 :
+- [ ] Using R for correlation and regression analysis.
+
+### Assignment-4 :
+- [ ] Data  analysis  case  study  using  R  for  readily  available  data  set  using  any  one  machine  learning algorithm.
+
+## List of Mini Project on Python and  Data Science with R
+
+### Mini Project-1 :
+- [ ] Implementing a simple Recommender System based on user buying pattern.
+
+### Mini Project-2 :
+- [ ] Twitter Sentiment Analysis in Python
+
+### Mini Project-3 :
+- [ ] Applying linear regression model to a real world problem.
+
+### Mini Project-4 :
+- [x] Git Project Initialization Automation.
+ 
+ #### link: https://github.com/mohitkhedkar/Git-Automation.
