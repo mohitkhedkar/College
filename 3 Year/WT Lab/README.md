@@ -3,7 +3,7 @@
 ## List of Assignments
 
 ### Assignment-1A:
-- [ ] Installation  and  Configuration  of  Web  Application  Servers  Tomcat, Apache, WebSphere, JBoss, GlassFish.
+- [x] Installation  and  Configuration  of  Web  Application  Servers  Tomcat, Apache, WebSphere, JBoss, GlassFish.
 
 ### Assignment-1B: 
 - [ ] Design  and  develop  any  suitable  web  application  using  HTML,  CSS  and XML in consultation of course instructor.
