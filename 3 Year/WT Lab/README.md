@@ -31,7 +31,7 @@
 - [ ] Write a program to Design, Develop & Deploy web application using Bootstrap
 
 ### Assignment 10:
-- [ ] Design, Develop & Deploy web application using wordpress using XAMPP Server
+- [x] Design, Develop & Deploy web application using wordpress using XAMPP Server
 
 ---
 ## Extra Assignments:
