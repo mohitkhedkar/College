@@ -6,7 +6,8 @@
 - [x] Installation  and  Configuration  of  Web  Application  Servers  Tomcat.
 
 ### Assignment-2: 
-- [ ] Design  and  develop  any  suitable  web  application  using  HTML,  CSS. write a program to design registration form for students by HTML and CSS.
+- [x] Design  and  develop  any  suitable  web  application  using  HTML,  CSS. 
+    write a program to design registration form for students by HTML and CSS.
 
 ### Assignment-3: 
 - [ ] Design  and  develop  any  suitable  web  application  using XML & CSS. Write a program to design book catalog by using XML and CSS to display tile, author, price and year of the book.

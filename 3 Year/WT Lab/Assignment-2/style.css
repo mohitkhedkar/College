@@ -1,0 +1,26 @@
+#container {
+    text-align: center;
+    background-color: aquamarine;
+    font-family: monospace;
+    border: 2px solid rgb(0, 255, 157);
+}
+
+.general {
+    color: red;
+    font-family: sans-serif;
+}
+
+input:focus{
+    background-color: yellow;
+}
+
+h1{
+    color: darkblue;
+}
+
+#submit {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    width: 70px;
+    height: 40px;
+}
