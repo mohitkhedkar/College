@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<books>
+    <heading>BOOKS ASSIGNMENT</heading>
+    
+    <book>
+        <title>Title: Zero to One</title>
+        <author>Author: Peter Thiel</author>
+        <price>Price: 1500</price>
+        <year>Year: 2014</year>
+        
+        
+    </book>
+        
+    
+    <book>
+       <title>Title: Attitude is Everything</title>
+        <author>Author: Jeff Keller</author>
+        <price>Price: 160</price>
+        <year>Year: 2015</year>
+        
+    </book>
+        
+    
+    <book>
+        <title>Title: Power of Subconscious Mind</title>
+        <author>Author: Joseph Murphy</author>
+        <price>Price: 200</price>
+        <year>Year: 2015</year>
+        
+        
+    </book>
+    
+    
+    
+    
+</books>

@@ -1,0 +1,25 @@
+book {
+    text-align: center;
+    margin: 2px;
+    font-family: monospace;
+    width: 100%;
+}
+
+title {
+    font-size: 25px;
+    background-color: rgb(255, 255, 255);
+}
+
+heading {
+    font-family: sans-serif arial;
+    text-align: center;
+    font-size: 32px;
+}
+
+heading, title, author, price, year {
+    display: block;
+}
+
+* {
+    background-color: aquamarine;
+}
