@@ -13,7 +13,7 @@
 - [x] Design  and  develop  any  suitable  web  application  using XML & CSS. Write a program to design book catalog by using XML and CSS to display tile, author, price and year of the book.
 
 ### Assignment-4:
-- [ ] Write a program to design registration form for students by using HTML, CSS & Java Script and perform following validations: all fields mandatory, phone number and email address validation
+- [x] Write a program to design registration form for students by using HTML, CSS & Java Script and perform following validations: all fields mandatory, phone number and email address validation
 
 ### Assignment-5:
 - [ ] Write a program to design and Build Student Login Page using JSP, Servlet and MySQL

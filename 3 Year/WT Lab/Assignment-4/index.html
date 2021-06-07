@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+    <h1>Form Validation using Javascript</h1>
+
+    <div id="container">
+    <form id="validform" name="validateform">
+        
+        Student Roll no: <input type="number" id="rno"><p id="rollno" style="color: red"></p><br >
+        <br >
+        Student Name: <input type="text" id="name"><p id="fname" style="color: red"></p><br >
+        <br >
+        Year of Engineering (FE/SE/TE/BE): <input type="text" id="year"><p id="yoe" style="color: red"></p><br >
+        <br >
+
+        Branch of Engineering: <input type="text" id="branch"><p id="boe" style="color: red"></p><br >
+        <br >
+        Mobile number: <input type="number" id="mobile"><p id="mno" style="color: red"></p><br >
+        <br >
+        Email ID: <input type="email" id="email"><p id="emailid" style="color: red"></p><br >
+        <br >
+        Was this assignment Succesful?: <input type="radio" id="ans1" checked>Yes<input type="radio" id="ans2">No<br >
+        
+        <button type="button" id="submit" onclick="return validateForm()">Submit</button>
+        
+    </form>
+    </div>
+    
+    <script src="script.js"></script>
+    
+</body>
+</html>
