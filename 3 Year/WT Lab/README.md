@@ -3,25 +3,39 @@
 ## List of Assignments
 
 ### Assignment-1A:
-- [x] Installation  and  Configuration  of  Web  Application  Servers  Tomcat, Apache, WebSphere, JBoss, GlassFish.
+- [x] Installation  and  Configuration  of  Web  Application  Servers  Tomcat.
 
-### Assignment-1B: 
-- [ ] Design  and  develop  any  suitable  web  application  using  HTML,  CSS  and XML in consultation of course instructor.
+### Assignment-2: 
+- [ ] Design  and  develop  any  suitable  web  application  using  HTML,  CSS. write a program to design registration form for students by HTML and CSS.
 
-### Assignment-2:
-- [ ] Perform  validation  of  all  fields  in assignment no.1by using Java script/JQuery.
-
-### Assignment-3:
-- [ ] Add  dynamic  web  application  essence  in assignment  no.  2using  Servlet, JSP and backend.
+### Assignment-3: 
+- [ ] Design  and  develop  any  suitable  web  application  using XML & CSS. Write a program to design book catalog by using XML and CSS to display tile, author, price and year of the book.
 
 ### Assignment-4:
-- [ ] Add  dynamic  web  application  essence  in assignment  no.  2 using  PHP, MySQL database connectivity and AJAX controls.
+- [ ] Write a program to design registration form for students by using HTML, CSS & Java Script and perform following validations: all fields mandatory, phone number and email address validation
 
 ### Assignment-5:
-- [ ] Re-Design, develop and deploy assignment no. 3of unit –IIIusing Strut Re-Design, develop and deploy assignment no. 4of unit –IVusing Angular JS
+- [ ] Write a program to design and Build Student Login Page using JSP, Servlet and MySQL
 
 ### Assignment-6:
-- [ ] Design,    Develop    and    Deploy    separate    web    application    using EJB/CMS/JSF/Spring/Bootstrap.
+- [ ] Write a program to design and develop dynamic web application using PHP and MySQL as a back-end for employee data with insert and view operations.
 
-### Assignment 7:
-- [ ] Assignment on Software ModelingandDesign 
+### Assignment-7:
+- [ ] Write a program to design and develop dynamic web application using PHP, AJAX and MySQL as a back-end for employee data with insert and view operations
+
+### Assignment-8:
+- [ ] Write a program for Create an application for Bill Payment Record using AngularJS.
+
+### Assignment 9:
+- [ ] Write a program to Design, Develop & Deploy web application using Bootstrap
+
+### Assignment 10:
+- [ ] Design, Develop & Deploy web application using wordpress using XAMPP Server
+
+---
+## Extra Assignments:
+### Assignment 11:
+- [ ] Create a College Website using HTML5, CSS3, and JavaScript.
+
+### Assignment 12:
+- [ ] Create a Web Application using Macromedia Dream Weaver-8
