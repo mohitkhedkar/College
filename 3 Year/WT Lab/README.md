@@ -2,7 +2,7 @@
 
 ## List of Assignments
 
-### Assignment-1A:
+### Assignment-1:
 - [x] Installation  and  Configuration  of  Web  Application  Servers  Tomcat.
 
 ### Assignment-2: 
