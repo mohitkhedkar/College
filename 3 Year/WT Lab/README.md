@@ -25,7 +25,7 @@
 - [ ] Write a program to design and develop dynamic web application using PHP, AJAX and MySQL as a back-end for employee data with insert and view operations
 
 ### Assignment-8:
-- [ ] Write a program for Create an application for Bill Payment Record using AngularJS.
+- [x] Write a program for Create an application for Bill Payment Record using AngularJS.
 
 ### Assignment 9:
 - [ ] Write a program to Design, Develop & Deploy web application using Bootstrap
