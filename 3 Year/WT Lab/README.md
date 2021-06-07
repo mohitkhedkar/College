@@ -19,7 +19,7 @@
 - [ ] Write a program to design and Build Student Login Page using JSP, Servlet and MySQL
 
 ### Assignment-6:
-- [ ] Write a program to design and develop dynamic web application using PHP and MySQL as a back-end for employee data with insert and view operations.
+- [x] Write a program to design and develop dynamic web application using PHP and MySQL as a back-end for employee data with insert and view operations.
 
 ### Assignment-7:
 - [ ] Write a program to design and develop dynamic web application using PHP, AJAX and MySQL as a back-end for employee data with insert and view operations
