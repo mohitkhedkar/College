@@ -10,5 +10,5 @@
 - [x] 3. [Computer Networks Lab (CNL)](CNL).
 - [x] 4. [Web Technology Lab(WTL)](WT%20Lab).
 - [ ] 5. [System Programming & Operating System Lab (SPOS Lab)](SPOS%20Lab).
-- [ ] 6. [Embedded Systems & Internet of Things Lab (ESIoT Lab)](ESIoT%20Lab).
+- [x] 6. [Embedded Systems & Internet of Things Lab (ESIoT Lab)](ESIoT%20Lab).
 - [x] 7. [Cyber Security Honours Course Lab(Cyber Security Lab)](Cyber%20Security%20Lab)
