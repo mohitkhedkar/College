@@ -22,7 +22,7 @@
 - [x] Write a program to design and develop dynamic web application using PHP and MySQL as a back-end for employee data with insert and view operations.
 
 ### Assignment-7:
-- [ ] Write a program to design and develop dynamic web application using PHP, AJAX and MySQL as a back-end for employee data with insert and view operations
+- [x] Write a program to design and develop dynamic web application using PHP, AJAX and MySQL as a back-end for employee data with insert and view operations
 
 ### Assignment-8:
 - [x] Write a program for Create an application for Bill Payment Record using AngularJS.
