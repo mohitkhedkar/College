@@ -41,7 +41,7 @@
 - [x] Write a Java program (using OOP features)  to implement following scheduling algorithms: FCFS, SJF (Preemptive), Priority (Non-Preemptive)andRound Robin (Preemptive)
 
 ### Assignment-2: 
-- [ ] Write a Java program to implement Banker’s Algorithm
+- [x] Write a Java program to implement Banker’s Algorithm
 
 ### Assignment-3: 
 - [ ] Implement  UNIX  system  calls  like  ps,  fork,  join,  exec  family,  and  wait  for  process management (use shell script/ Java/ C programming).
