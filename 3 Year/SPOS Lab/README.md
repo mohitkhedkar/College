@@ -38,7 +38,7 @@
 ## Group C
 
 ### Assignment-1: 
-- [ ] Write a Java program (using OOP features)  to implement following scheduling algorithms: FCFS, SJF (Preemptive), Priority (Non-Preemptive)andRound Robin (Preemptive)
+- [x] Write a Java program (using OOP features)  to implement following scheduling algorithms: FCFS, SJF (Preemptive), Priority (Non-Preemptive)andRound Robin (Preemptive)
 
 ### Assignment-2: 
 - [ ] Write a Java program to implement Banker’s Algorithm
