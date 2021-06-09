@@ -47,7 +47,7 @@
 - [ ] Implement  UNIX  system  calls  like  ps,  fork,  join,  exec  family,  and  wait  for  process management (use shell script/ Java/ C programming).
 
 ### Assignment-4: 
-- [ ] Study assignment on process scheduling algorithms in Android and Tizen.
+- [x] Study assignment on process scheduling algorithms in Android and Tizen.
 
 ## Group D
 
