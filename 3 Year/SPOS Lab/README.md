@@ -51,4 +51,4 @@
 
 ## Group D
 
-- [ ] Write a Java Program (using OOP features) to implement   paging simulation using 1.Least Recently Used (LRU)2.Optimal algorithm
+- [x] Write a Java Program (using OOP features) to implement   paging simulation using 1.Least Recently Used (LRU)2.Optimal algorithm
