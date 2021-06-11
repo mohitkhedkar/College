@@ -14,7 +14,7 @@
 - [ ] Designsuitable  data  structures  and  implement  pass-I  of  a  two-pass  macro-processor  using OOP features in Java
 
 ### Assignment-4: 
-- [ ] Write a Java program for pass-II of a two-pass macro-processor. The output of assignment-3 (MNT, MDT and file without any macro definitions) should beinput for this assignment.
+- [x] Write a Java program for pass-II of a two-pass macro-processor. The output of assignment-3 (MNT, MDT and file without any macro definitions) should beinput for this assignment.
 
 
 ## Group B
