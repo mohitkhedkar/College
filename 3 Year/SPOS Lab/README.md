@@ -11,7 +11,7 @@
 - [ ] Implement  Pass-II  of  two  pass  assembler  for  pseudo-machine  in  Java  using  object  oriented features.  Theoutput  of  assignment-1  (intermediate  file   and  symbol   table)  should  be  input for this assignment.
 
 ### Assignment-3: 
-- [ ] Designsuitable  data  structures  and  implement  pass-I  of  a  two-pass  macro-processor  using OOP features in Java
+- [x] Design suitable  data  structures  and  implement  pass-I  of  a  two-pass  macro-processor  using OOP features in Java
 
 ### Assignment-4: 
 - [x] Write a Java program for pass-II of a two-pass macro-processor. The output of assignment-3 (MNT, MDT and file without any macro definitions) should beinput for this assignment.
