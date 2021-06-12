@@ -1,0 +1,16 @@
+         USING *,15
+         LA    15,SETUP
+         SR    TOTAL,TOTAL
+         USING SETUP,15
+         L     DATABASE,=A(DATA1)
+         USING DATAAREA,DATABASE
+         SR    INDEX,INDEX
+LOOP     L     AC,DATA1(INDEX)
+         AR    TOTAL,AC
+         A     AC,=F'5'
+         ST    AC,SAVE(INDEX)
+         A     INDEX,=F'4'
+         C     INDEX,=F'8000'
+         BNE   LOOP
+         LR    1,TOTAL
+         BR    14
