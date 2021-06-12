@@ -8,4 +8,7 @@ All the practical's Solution of SPPU Computer Dept. 2015 pattern
 
 - [x] [Second Year](https://github.com/mohitkhedkar/College/tree/main/2%20Year).
 
-- [ ] [Third Year](https://github.com/mohitkhedkar/College/tree/main/3%20Year).
+- [x] [Third Year](https://github.com/mohitkhedkar/College/tree/main/3%20Year).
+
+- [ ] [Fourth Year](https://github.com/mohitkhedkar/College/tree/main/4%20Year).
+
