@@ -8,7 +8,7 @@
 - [ ] Design  suitable  data  structures  and  implement  pass-I  of  a  two-pass  assembler  for  pseudo-machine  in  Java  using  object  oriented  feature.  Implementation  should  consist  of  a  few instructions from each category and few assembler directives.
 
 ### Assignment-2: 
-- [ ] Implement  Pass-II  of  two  pass  assembler  for  pseudo-machine  in  Java  using  object  oriented features.  Theoutput  of  assignment-1  (intermediate  file   and  symbol   table)  should  be  input for this assignment.
+- [x] Implement  Pass-II  of  two  pass  assembler  for  pseudo-machine  in  Java  using  object  oriented features.  Theoutput  of  assignment-1  (intermediate  file   and  symbol   table)  should  be  input for this assignment.
 
 ### Assignment-3: 
 - [x] Design suitable  data  structures  and  implement  pass-I  of  a  two-pass  macro-processor  using OOP features in Java
