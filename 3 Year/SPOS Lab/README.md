@@ -23,7 +23,7 @@
 - [ ] Write  a  program  to  create  Dynamic  Link  Library  for  any  mathematical  operation  and  write an application program to test it. (Java Native Interface / Use VB or VC++).
 
 ### Assignment-2: 
-- [ ] Write a program using Lex specifications to implement lexical analysis phase of compiler to generate tokens of subset of ‘Java’ program.
+- [x] Write a program using Lex specifications to implement lexical analysis phase of compiler to generate tokens of subset of ‘Java’ program.
 
 ### Assignment-3: 
 - [x] Write a program using Lex specifications to implement lexical analysis phase of compiler to count no. of words, lines and characters of given input file.
