@@ -32,7 +32,7 @@
 - [x] Write a program using YACC specifications to implement syntax analysis phase of compiler to validate type and syntax of variable declaration in Java.
 
 ### Assignment-5: 
-- [ ] Write a program using YACC specifications to implement syntax analysis phase of compiler to recognize simple and compound sentences given in input file.
+- [x] Write a program using YACC specifications to implement syntax analysis phase of compiler to recognize simple and compound sentences given in input file.
 
 
 ## Group C
