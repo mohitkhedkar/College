@@ -26,7 +26,7 @@
 - [ ] Write a program using Lex specifications to implement lexical analysis phase of compiler to generate tokens of subset of ‘Java’ program.
 
 ### Assignment-3: 
-- [ ] Write a program using Lex specifications to implement lexical analysis phase of compiler to count no. of words, lines and characters of given input file.
+- [x] Write a program using Lex specifications to implement lexical analysis phase of compiler to count no. of words, lines and characters of given input file.
 
 ### Assignment-4: 
 - [ ] Write a program using YACC specifications to implement syntax analysis phase of compiler to validate type and syntax of variable declaration in Java.
