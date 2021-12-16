@@ -10,7 +10,7 @@
 - [x] 2. [Laboratory Practice II (LP2)](LP2).
 - [ ] 3. [Laboratory Practice III (LP3)](LP3).
 - [ ] 4. [Laboratory Practice IV (LP4)](LP4).
-- [ ] 5. [Cyber Security Honours Course Lab(Cyber Security Lab)](Cyber%20Security%20Lab)
+- [ ] 5. [Cyber Security Honours Course Lab(Risk Assessment Lab - RAL)](RAL)
 
 ---
 
