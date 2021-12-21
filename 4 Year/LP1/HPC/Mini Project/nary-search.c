@@ -85,6 +85,7 @@ void main()
     if (left == right || !(key >= array[left] && key <= array[right]))
         printf("Element does not present in the list\n");
 
+return 0;
 } //End of main()
 
 // For compilation : gcc - fopenmp nary - search.c - lm
