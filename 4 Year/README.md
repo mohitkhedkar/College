@@ -10,7 +10,7 @@
 - [x] 2. [Laboratory Practice II (LP2)](LP2).
 - [ ] 3. [Laboratory Practice III (LP3)](LP3).
 - [ ] 4. [Laboratory Practice IV (LP4)](LP4).
-- [ ] 5. [Cyber Security Honours Course Lab(Risk Assessment Lab - RAL)](RAL)
+- [x] 5. [Cyber Security Honours Course Lab(Risk Assessment Lab - RAL)](RAL)
 
 ---
 
@@ -18,5 +18,5 @@
 
 - [x] Elective-1. Data Mining and Warehousing
 - [x] Elective-2. Software Testing and Quality Assurance
-- [ ]
-- [ ]
+- [ ] Elective-3. Embedded and Real Time Operating Systems
+- [ ] Elective-4. Human Computer Interface
