@@ -2,5 +2,9 @@
 
 #### Subjects
 
-- ML
-- ICS
+- [x] ML
+  - [x] Assignments
+  - [x] Mini Projects
+- [x] ICS
+  - [x] Assignments
+  - [x] Mini Projects
