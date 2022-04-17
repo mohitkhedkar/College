@@ -10,7 +10,7 @@ All the practical's Solution of SPPU Computer Dept. 2015 pattern
 
 - [x] [Third Year](https://github.com/mohitkhedkar/College/tree/main/3%20Year).
 
-- [ ] [Fourth Year](https://github.com/mohitkhedkar/College/tree/main/4%20Year).
+- [x] [Fourth Year](https://github.com/mohitkhedkar/College/tree/main/4%20Year).
 
 ## `Tree of Index 🚀`
 
@@ -47,7 +47,13 @@ All the practical's Solution of SPPU Computer Dept. 2015 pattern
 |   |   ├── STQA
 |   |   └── ...
 |   ├── LP3
+|   |   ├── ICS
+|   |   ├── ML
+|   |   └── ...
 |   ├── LP4
+|   |   ├── HCI
+|   |   ├── ERTOS
+|   |   └── ...
 |   ├── RAL (Cyber Security Lab)
 |   └── ...
 └── ...
