@@ -1,0 +1,18 @@
+<table border="1">
+    <tr>
+        <th>SN</th>
+        <th>Name</th>
+        <th>Role</th>
+        <th>Update</th>
+    </tr>
+    <tr *ngFor="let user of users; index as i">
+        <td>{{i+1}}</td>
+        <td>{{user.username}}</td>
+        <td><select [(ngModel)]="user.status">
+            <option  value=true>Active</option>
+            <option  value=false>Blocked</option>
+        </select></td>
+        <td><button [disabled]="disable" (click)="update(user.username,user.status)">Update</button></td>
+    </tr>
+</table>
+

@@ -1,0 +1,34 @@
+<header>DLocker - A Digital Locker</header>
+<div>{{ data }}</div>
+
+<div class="register">
+  <label>Username</label><input type="text" [(ngModel)]="username" />
+  <label>Password</label><input type="password" [(ngModel)]="password" /><br />
+
+  <button (click)="login()">Login</button>
+
+  <button [routerLink]="['/register']">Register</button>
+</div>
+<!--<button onclick="window.location.href='/register';">Register</button>-->
+
+<div class="forgot-pass">
+  <label>Email</label><input type="email" [(ngModel)]="email" /><br />
+  <button (click)="forgetPassword()" [disabled]="disable">
+    Forget Password
+  </button>
+</div>
+<div class="update-pass">
+  <hr />
+  <button [routerLink]="['/changePassword']">Update Password</button><br />
+  <router-outlet></router-outlet>
+</div>
+
+<!--
+<div *ngIf="isShown">
+    <label>Otp</label>
+    <input type="number" [(ngModel)]="otp"><br> 
+    <label>New Password</label>
+    <input type="password" [(ngModel)]="password">
+    <button (click)="updatePassword()">Update Password</button>
+</div>
+-->

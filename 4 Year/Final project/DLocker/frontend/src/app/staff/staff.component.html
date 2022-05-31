@@ -1,0 +1,60 @@
+<header>DLocker - A Digital Locker</header>
+
+<div class="getinfo">
+  <button (click)="getAll()" style="margin-right: 1cm">Get All</button>
+  <button (click)="getVerified()" style="margin-right: 1cm">
+    Get Verified
+  </button>
+  <button (click)="getNonVerified()" style="margin-right: 1cm">
+    Get Non Verified</button
+  ><br />
+
+  <input type="text" [(ngModel)]="username" />
+  <button (click)="getByUsername()" style="margin-right: 1cm">Get Info</button>
+  <img
+    [src]="url"
+    *ngIf="url"
+    width="800px"
+    height="400px"
+    style="image-rendering: optimizeQuality"
+  />
+</div>
+<div *ngIf="filesArr">
+  <table border="1" id="staffinfo">
+    <tr>
+      <th>SN</th>
+      <th>StudentName</th>
+      <th>FileName</th>
+      <th>Verified</th>
+      <th>Document</th>
+      <th>Update</th>
+    </tr>
+    <tr *ngFor="let files of filesArr; index as i">
+      <td>{{ i + 1 }}</td>
+      <td>{{ files.username }}</td>
+      <td>{{ files.filename }}</td>
+      <td>
+        <select [(ngModel)]="files.status">
+          <option value="true">True</option>
+          <option value="false">False</option>
+        </select>
+      </td>
+      <td>
+        <button
+          (click)="getFiles(files.filename, files.username)"
+          style="margin-right: 2px"
+        >
+          View
+        </button>
+        <button (click)="closeFile()">Close</button>
+      </td>
+      <td>
+        <button
+          (click)="updateStatus(files.status, files.filename, files.username)"
+        >
+          Update
+        </button>
+      </td>
+    </tr>
+  </table>
+</div>

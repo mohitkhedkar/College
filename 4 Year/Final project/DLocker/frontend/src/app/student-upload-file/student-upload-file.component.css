@@ -1,0 +1,97 @@
+body {
+  color: #4d4d4d;
+  background-color: #f5f5f5;
+  color: hsl(0, 0%, 30%);
+  margin: 0;
+  padding: 0;
+}
+
+label {
+  font-size: 1.5rem;
+  /* font-weight: bold; */
+  display: block;
+  padding: 1rem 0 0 0;
+}
+
+header {
+  margin: 0;
+  padding: 1em;
+  text-align: center;
+  font-size: 2em;
+  color: #f5f5f5;
+  background-color: #37403c;
+}
+
+.upload-file {
+  text-align: center;
+  padding: 1em;
+}
+select {
+  width: 50%;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+
+button {
+  background-color: #182f44;
+  border: none;
+  border-radius: 0.5em;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3087d7;
+  color: white;
+}
+
+input[type="file"] {
+  width: 25%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+}
+
+#studentinfo {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 95%;
+}
+
+#studentinfo td,
+#studentinfo th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#studentinfo tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#studentinfo tr:hover {
+  background-color: #ddd;
+}
+
+#studentinfo th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #182f44;
+  color: white;
+}
+
+@media screen and (min-width: 600px) {
+  .main {
+    width: 70%;
+  }
+}

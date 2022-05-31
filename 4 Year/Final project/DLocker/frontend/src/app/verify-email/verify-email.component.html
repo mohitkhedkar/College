@@ -1,0 +1,11 @@
+{{data}}<br>
+<label>Email</label>
+<input type="email" [(ngModel)]="email"><br>
+<label>Otp</label>
+<input type="otp" [(ngModel)]="otp"><br>
+<button (click)=verifyEmail()>Verify</button><br>
+<hr>
+
+<div *ngIf="isShown">
+    <button [routerLink]="['']">Login</button>
+</div>

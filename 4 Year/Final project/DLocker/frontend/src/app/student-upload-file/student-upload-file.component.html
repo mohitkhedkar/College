@@ -1,0 +1,54 @@
+<header>DLocker - A Digital Locker</header>
+<div class="upload-file">
+  <select [(ngModel)]="fileName">
+    <option value="SSC">SSC Marksheet</option>
+    <option value="HSC">HSC Marksheet</option>
+    <option value="Diploma">Diploma Marksheet</option>
+    <option value="Bachelors">Bachelors Marksheet</option>
+    <option value="Masters">Masters Marksheet</option>
+  </select>
+  <h5 style="color: red">Only .jpg,.jpeg,.png allowed</h5>
+  <input
+    type="file"
+    accept="file_extension|image/jpg"
+    data-max-size="1"
+    (change)="submit($event)"
+  />
+</div>
+<!--<button [disabled]="flag"></button>
+<label>File</label><input type="file" > [(ngModel)]="file">        (change)="selectFile($event.target.file)""selectFile($event)"[(ngModel)]="file">-->
+<br /><br />
+<img
+  [src]="url"
+  *ngIf="url"
+  width="800px"
+  height="400px"
+  style="image-rendering: optimizeQuality"
+/>
+<hr />
+
+<h3>Display the file</h3>
+<select [(ngModel)]="fileName">
+  <option value="SSC">SSC Marksheet</option>
+  <option value="HSC">HSC Marksheet</option>
+  <option value="Diploma">Diploma Marksheet</option>
+  <option value="Bachelors">Bachelors Marksheet</option>
+  <option value="Masters">Masters Marksheet</option>
+</select>
+<button (click)="getFile()">Get</button>
+<br />
+<hr />
+<table border="1" id="studentinfo">
+  <tr>
+    <th>SN</th>
+    <th>FileName</th>
+    <th>Verified</th>
+    <th>Link</th>
+  </tr>
+  <tr *ngFor="let files of filesArr; index as i">
+    <td>{{ i + 1 }}</td>
+    <td>{{ files.filename }}</td>
+    <td>{{ files.status }}</td>
+    <td *ngIf="files.status">{{ files.link }}</td>
+  </tr>
+</table>

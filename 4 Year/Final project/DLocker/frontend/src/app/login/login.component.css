@@ -1,0 +1,82 @@
+body {
+  color: #4d4d4d;
+  background-color: #f5f5f5;
+  color: hsl(0, 0%, 30%);
+  margin: 0;
+  padding: 0;
+}
+
+label {
+  font-size: 1.5rem;
+  /* font-weight: bold; */
+  display: block;
+  padding: 1rem 0 0 0;
+}
+
+header {
+  margin: 0;
+  padding: 1em;
+  text-align: center;
+  font-size: 2em;
+  color: #f5f5f5;
+  background-color: #37403c;
+}
+
+input[type="text"] {
+  width: 25%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+}
+input[type="password"] {
+  width: 25%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+}
+input[type="email"] {
+  width: 25%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+}
+
+button {
+  background-color: #182f44;
+  border: none;
+  border-radius: 0.5em;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3087d7;
+  color: white;
+}
+.register {
+  text-align: center;
+  padding: 1em;
+}
+
+.forgot-pass {
+  text-align: center;
+  padding: 1em 0 0 0;
+}
+
+@media screen and (min-width: 600px) {
+  .main {
+    width: 70%;
+  }
+}

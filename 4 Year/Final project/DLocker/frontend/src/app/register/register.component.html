@@ -1,0 +1,10 @@
+<header>DLocker - A Digital Locker</header>
+{{ data }}
+<label>Email</label><input type="email" [(ngModel)]="email" /><br />
+<label>Username</label><input type="text" [(ngModel)]="username" /><br />
+<label>Password</label><input type="password" [(ngModel)]="password" /><br />
+
+<button (click)="register()">Register</button><br />
+<hr />
+<button [routerLink]="['verifyEmail']">Verify Email</button>
+<router-outlet></router-outlet>

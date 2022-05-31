@@ -1,0 +1,18 @@
+<table border="1">
+    <tr>
+        <th>SN</th>
+        <th>Name</th>
+        <th>Role</th>
+        <th>Update</th>
+    </tr>
+    <tr *ngFor="let user of users; index as i">
+        <td>{{i+1}}</td>
+        <td>{{user.username}}</td>
+        <td><select [(ngModel)]="user.role">
+            <option  value="ROLE_stu">Student</option>
+            <option  value="ROLE_staff">Staff</option>
+            <option  value="ROLE_admin">Admin</option>
+        </select></td>
+        <td><button [disabled]="disable" (click)="update(user.username,user.role)">Update</button></td>
+    </tr>
+</table>
