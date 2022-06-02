@@ -1,0 +1,6 @@
+create database userData;
+use userData;
+create table user(id int primary key auto_increment, userName varchar(30) , password varchar(110), role varchar(15),
+authentication int, otp int, expiry datetime, email varchar(50), status boolean);
+create table data(id int primary key auto_increment, filename varchar(100) , status boolean, ekey varchar(16), userid int not null, 
+link varchar(150));
